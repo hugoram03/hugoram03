@@ -19,8 +19,8 @@ C# (Visual Studio)
 ### 💻 Proyectos
 
 <p align="left">
-  <a href="https://github.com/hugoram03/Pruebas_unitarias">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugoram03&repo=Pruebas_unitarias"/>
+  <a href="https://github.com/hugoram03/Programacion">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hugoram03&repo=Programacion"/>
   </a>
 </p>
 
